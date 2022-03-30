@@ -1,2 +1,2 @@
 # Practica-de-Powershell-Scripts
-Analizar y documentar scripts de Powershell
+## Tal y como hemos hecho en anteriores tareas se trata de analizar y documentar los siguientes scripts de powershell.
